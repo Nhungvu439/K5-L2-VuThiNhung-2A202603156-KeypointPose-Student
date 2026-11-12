@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202603156",
+ "ten": "VuThiNhung",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "vuthinhung061005",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000043968.jpg",
+  "000000213933.jpg",
+  "000000292999.jpg",
+  "000000390585.jpg",
+  "000000431893.jpg",
+  "000000090646.jpg",
+  "000000109010.jpg",
+  "000000467300.jpg",
+  "000000043719.jpg",
+  "000000210604.jpg",
+  "000000100510.jpg",
+  "000000130816.jpg"
+ ],
+ "faces": [
+  "face_204787.jpg",
+  "face_261458.jpg",
+  "face_92028.jpg",
+  "face_476363.jpg",
+  "face_79591.jpg",
+  "face_345145.jpg",
+  "face_309728.jpg",
+  "face_490361.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 11,
+   "job_id": 11,
+   "task_name": "persons-VuThiNhung"
+  },
+  "faces": {
+   "task_id": 12,
+   "job_id": 12,
+   "task_name": "faces-VuThiNhung"
+  }
+ }
+}
